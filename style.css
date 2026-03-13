@@ -1,5 +1,7 @@
-div {
-    border: 1px dotted black;
-    padding: 10px;
+#body {
+   background: linear-gradient(90deg, rgb(255, 90, 8) 0%, rgb(88, 0, 0) 100.2%);
+   height: 100vh; 
 }
 
+#btn-gradient {
+    background: linear-gradient(111.4deg, rgb(246, 4, 26) 0.4%, rgb(251, 139, 34) 100.2%);
