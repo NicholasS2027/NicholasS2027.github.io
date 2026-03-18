@@ -1,3 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+
+h1, h2, h3 {
+   font-family: "Press Start 2P";
+}
+
+a {
+   font-family: "Press Start 2P" !important;
+}
+
+p {
+   color: white;
+}  
+
+div {
+   color: white;
+}
+
 #body {
    background: linear-gradient(90deg, rgb(255, 90, 8) 0%, rgb(88, 0, 0) 100.2%);
    height: 100vh; 
@@ -5,3 +23,4 @@
 
 #btn-gradient {
     background: linear-gradient(111.4deg, rgb(246, 4, 26) 0.4%, rgb(251, 139, 34) 100.2%);
+
